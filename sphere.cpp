@@ -1,5 +1,5 @@
 // =====================================================================
-// Author: Tristen Woodruff
+// Author: green
 // Date: May 4th, 2022 (may the fourth be with u)
 // 
 // Creates a sphere on the screen.
